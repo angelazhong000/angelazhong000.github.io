@@ -1,0 +1,6 @@
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("../img/cityhall.jpg");
+  background-size: cover;
+  color: black;
+}
